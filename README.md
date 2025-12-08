@@ -48,7 +48,7 @@
 <tr>
 <td>
 
-### 🔥 Dynamic AI NPCs
+### 🔥 Dynamic AI NPCs with NeMo + LLaMA
 [![GitHub](https://img.shields.io/badge/GitHub-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/Dynamic-AI-NPCs-NeMollama-Unreal)  
 - AI NPCs powered by NeMo LLM pipelines. 
 - Real-time speech & facial animation.
