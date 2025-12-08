@@ -84,7 +84,7 @@
 ### 🌊 Perlin Noise Visualization
 [![Dev.to](https://img.shields.io/badge/Dev.to-339933?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rusycem/perlin-noise-visualization-with-threejs-and-audio-controls-55pb)  
 - Interactive Perlin noise visualizer.
-- COmes with udio-reactive shaders.
+- Comes with audio-reactive shaders.
   
 `Three.js` • `JavaScript` • `WebGL` • `Audio API`
 
