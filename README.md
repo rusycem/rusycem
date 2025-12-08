@@ -61,7 +61,8 @@
 ### 📟 Dzikir Counter
 [![GitHub](https://img.shields.io/badge/GitHub-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/DzikirCounter)  
 - Clean dzikir counter app with sound, vibration.
-- Record and save files.  
+- Record and save files.
+  
 `Android` • `JavaScript` • `Mobile UI`
 
 </td>
@@ -72,7 +73,8 @@
 ### ♠️ Blackjack (SFML)
 [![GitHub](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/SFML-Blackjack)  
 - C++ digital Blackjack game.
-- Card mechanics and scoring.  
+- Card mechanics and scoring.
+  
 `C++` • `SFML`
 
 </td>
@@ -81,7 +83,8 @@
 ### 🌊 Perlin Noise Visualization
 [![Dev.to](https://img.shields.io/badge/Dev.to-339933?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rusycem/perlin-noise-visualization-with-threejs-and-audio-controls-55pb)  
 - Interactive Perlin noise visualizer.
-- COmes with udio-reactive shaders.  
+- COmes with udio-reactive shaders.
+  
 `Three.js` • `JavaScript` • `WebGL` • `Audio API`
 
 </td>
@@ -97,6 +100,7 @@
 ### 🏰 Hellbound Heir
 [![Itch.io](https://img.shields.io/badge/Itch.io-FF4500?style=for-the-badge&logo=itch.io&logoColor=white)](https://rusycem.itch.io/hellbound-heir)  
 Third-person medieval action game with cinematic cutscenes.  
+
 `Unreal Engine` • `AI` • `Behavior Trees`
 
 </td>
@@ -105,6 +109,7 @@ Third-person medieval action game with cinematic cutscenes.
 ### 👧 BubGirls
 [![Itch.io](https://img.shields.io/badge/Itch.io-FF69B4?style=for-the-badge&logo=itch.io&logoColor=white)](https://rusycem.itch.io/bubgirls)  
 3D Isometric mobile adventure game.  
+
 `UE5` • `Blender` • `Mixamo` • `Blueprint`
 
 </td>
@@ -115,6 +120,7 @@ Third-person medieval action game with cinematic cutscenes.
 ### 🤖 Cyber Ninja
 [![Itch.io](https://img.shields.io/badge/Itch.io-1E90FF?style=for-the-badge&logo=itch.io&logoColor=white)](https://rusycem.itch.io/cyber-ninja)  
 3D Isometric Action Platformer with AI enemy behavior.  
+
 `UE5` • `Blender` • `Mixamo` • `AI Behavior Tree`
 
 </td>
@@ -123,6 +129,7 @@ Third-person medieval action game with cinematic cutscenes.
 ### 🐾 Rara & Riri
 [![Itch.io](https://img.shields.io/badge/Itch.io-FFD700?style=for-the-badge&logo=itch.io&logoColor=white)](https://rusycem.itch.io/pengembaraan-jawi-bersama-rara-riri)  
 48-hour Unity adventure game to learn Jawi.  
+
 `Unity` • `3D Modeling` • `Game Programming` • `UI Design`
 
 </td>
@@ -133,6 +140,7 @@ Third-person medieval action game with cinematic cutscenes.
 ### 🐱 Sarah's Little Adventure
 [![Google Play](https://img.shields.io/badge/Google_Play-FF4500?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.rusycem.sarahadventure&hl=en)  
 2D Platformer mobile game to help a lost kitten find its mom.  
+
 `GDevelop` • `Mobile Game` • `Game Design`
 
 </td>
@@ -141,6 +149,7 @@ Third-person medieval action game with cinematic cutscenes.
 ### ⚔️ Legasi
 [![Unity](https://img.shields.io/badge/Unity-8B4513?style=for-the-badge&logo=unity&logoColor=white)](https://creations.uitm.edu.my/?event_listing=cdu2022_c027-legasi-a-gamification-of-malay-cultured-penchak-silat-and-empus-blacksmithing)  
 3D action game gamifying Malay culture: Penchak Silat & Empu blacksmithing.  
+
 `Unity` • `Blender` • `Game Development`
 
 </td>
@@ -151,6 +160,7 @@ Third-person medieval action game with cinematic cutscenes.
 ### 📚 Fastbook
 [![Itch.io](https://img.shields.io/badge/Itch.io-228B22?style=for-the-badge&logo=itch.io&logoColor=white)](https://redcocoon.itch.io/fastbook)  
 Socially conscious game identifying scam products.  
+
 `Godot` • `Teamwork` • `Problem Solving`
 
 </td>
@@ -158,7 +168,8 @@ Socially conscious game identifying scam products.
 
 ### 🎥 Motion Graphics – Self Intro Snippet
 [![YouTube](https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=wTu0OwgcIGk)  
-Cinematic motion graphics experiment combining UE5 & After Effects.  
+Cinematic motion graphics experiment combining UE5 & After Effects. 
+
 `UE5` • `After Effects` • `3D Tracking` • `Kinetic Typography`
 
 </td>
@@ -168,7 +179,8 @@ Cinematic motion graphics experiment combining UE5 & After Effects.
 
 ### 📖 Ejen Ali Wiki
 [![Fandom](https://img.shields.io/badge/Fandom-1E90FF?style=for-the-badge&logo=fandom&logoColor=white)](https://ejen-ali-agents-arena.fandom.com/wiki/Ejen_Ali:_Agents%27_Arena_Wiki)  
-Community wiki for characters, stats, gears, and game terminology.  
+Community wiki for characters, stats, gears, and game terminology. 
+
 `Wikitext` • `Wiki Development`
 
 </td>
