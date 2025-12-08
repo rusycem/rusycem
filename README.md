@@ -13,9 +13,9 @@
 <h1 align="center">Muhammad Irfan Rusydi Razaleigh 🚀</h1>
 
 <p align="center">
-  <b>🎮 Game Developer • AI & Gameplay Programmer • Tools Programmer</b><br/></p>
+  <b>🎮 Game Developer • AI & Gameplay Programmer • Tools Programmer</b><br/>
+</p>
   
-<p align="center"><i>🙏 Coffee lover 🙏 </i></p>
 <div align="center">
   
 [![Webiste](https://img.shields.io/badge/website-222184?style=for-the-badge&logo=circle&logoColor=white)](https://rusycem.github.io/profile/) [![itch.io](https://img.shields.io/badge/itch.io-000?style=for-the-badge&logo=itch.io&logoColor=white)](https://rusycem.itch.io/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-irfan-rusydi-razaleigh/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rusycem)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhdirfan.rusydi)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irfnrusydi/)
