@@ -10,12 +10,12 @@
   <img src="https://img.shields.io/badge/MUHAMMAD%20IRFAN%20RUSYDI%20BIN%20RAZALEIGH-PORTFOLIO-black?style=for-the-badge&logo=star&logoColor=white" />
 </p>
 
-<h1 align="center">🎮 Game Developer • AI Systems • Tools Programmer</h1>
+<h1 align="center">Muhammad Irfan Rusydi Razaleigh 🚀</h1>
 
 <p align="center">
-  <b>Bachelor of Information Technology (Game Technology)</b><br/>
-  Passionate about AI-driven systems, gameplay programming, and building immersive experiences.
-</p>
+  <b>🎮 Game Developer • AI & Gameplay Programmer • Tools Programmer</b><br/></p>
+  
+<p align="center"><i>🙏 Coffee lover 🙏 </i></p>
 <div align="center">
   
 [![Webiste](https://img.shields.io/badge/website-222184?style=for-the-badge&logo=circle&logoColor=white)](https://rusycem.github.io/profile/) [![itch.io](https://img.shields.io/badge/itch.io-000?style=for-the-badge&logo=itch.io&logoColor=white)](https://rusycem.itch.io/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-irfan-rusydi-razaleigh/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rusycem)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhdirfan.rusydi)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irfnrusydi/)
@@ -26,7 +26,8 @@
 
 ## 🧑‍💻 About Me
 ```bash
-- 🎓 Game Tech student @ FTMK  
+- 🎓 Game Tech student @ FTMK, UTeM, Malaysia
+- 🔥 Passionate about AI-driven systems, gameplay programming, and building immersive experiences.
 - 🚀 Focused on AI systems (NVIDIA ACE, autonomous factions, NPC logic)  
 - 🎮 Experience with Unreal Engine, Unity, Raylib, SFML  
 - 🔧 Comfortable with C++, JavaScript, Blueprint, and gameplay systems  
