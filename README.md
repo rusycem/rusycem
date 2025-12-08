@@ -1,10 +1,8 @@
-<!-- HEADER BADGE -->
-
+<!-- HEADER BADGE 
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUxZTQ4NnpsZW5zemVlMHA2NXduOHp6dnppN25wYjF2cHZvYTFlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UpSpEerkqIykFlIWPq/giphy.gif" width="600">
 <br/>
-</div>
-
+</div>-->
 
 <p align="center">
   <img src="https://img.shields.io/badge/MUHAMMAD%20IRFAN%20RUSYDI%20BIN%20RAZALEIGH-PORTFOLIO-black?style=for-the-badge&logo=star&logoColor=white" />
