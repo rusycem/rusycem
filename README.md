@@ -5,7 +5,6 @@
 <br/>
 </div>
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/MUHAMMAD%20IRFAN%20RUSYDI%20BIN%20RAZALEIGH-PORTFOLIO-black?style=for-the-badge&logo=star&logoColor=white" />
@@ -35,8 +34,6 @@
 - 📹 Content creator (motion graphics intro, tech posts, devlogs)
 ```
 
----
-
 ## 🛠️ Skills & Technologies
 <div align="center">
   
@@ -44,8 +41,6 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe%20AE-FF0000?style=for-the-badge&logo=adobeaftereffects&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 
 </div>
-
----
 
 ## 🎯 Featured Projects
 
@@ -93,9 +88,7 @@
 </tr>
 </table>
 
----
-
-## 🎮 Game Projects
+## 🎮 All Projects
 
 <table>
 <tr>
@@ -183,9 +176,9 @@ Community wiki for characters, stats, gears, and game terminology.
 </tr>
 </table>
 
+---
 
-
-## 🎯 Projects
+## 🎯 Projects Hyperlink
 
 ### GitHub
 [![Dynamic AI NPCs](https://img.shields.io/badge/Dynamic_AI_NPCs-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/Dynamic-AI-NPCs-NeMollama-Unreal)  [![Dzikir Counter](https://img.shields.io/badge/Dzikir_Counter-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/DzikirCounter)  [![SFML Blackjack](https://img.shields.io/badge/SFML_Blackjack-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/SFML-Blackjack)  [![Perlin Noise](https://img.shields.io/badge/Perlin_Noise-339933?style=for-the-badge&logo=github&logoColor=white)](https://dev.to/rusycem/perlin-noise-visualization-with-threejs-and-audio-controls-55pb)  
@@ -196,8 +189,6 @@ Community wiki for characters, stats, gears, and game terminology.
 ### Extra Media
 [![Motion Graphics Intro](https://img.shields.io/badge/Motion_Graphics-FF69B4?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=wTu0OwgcIGk)  [![Ejen Ali Wiki](https://img.shields.io/badge/Ejen_Ali_Wiki-1E90FF?style=for-the-badge&logo=fandom&logoColor=white)](https://ejen-ali-agents-arena.fandom.com/wiki/Ejen_Ali:_Agents%27_Arena_Wiki)  
 
-
----
 
 ## 🏆 Awards
 ```bash
