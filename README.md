@@ -49,108 +49,141 @@
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
 
-### 🔥 Dynamic AI NPCs with NeMo + LLaMA
+### 🔥 Dynamic AI NPCs
 [![GitHub](https://img.shields.io/badge/GitHub-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/Dynamic-AI-NPCs-NeMollama-Unreal)  
-**AI NPCs powered by NeMo LLM pipelines. Fully automated characters with real-time speech and facial animation.**  
-`Unreal Engine` • `C++` • `Blueprint` • `NVIDIA NeMo` • `LLaMA` • `AI Systems` • `Behavior Trees`
+- AI NPCs powered by NeMo LLM pipelines. 
+- Real-time speech & facial animation.
+  
+`Unreal Engine` • `C++` • `Blueprint` • `NeMo` • `LLaMA`
 
----
+</td>
+<td>
 
-### 📟 Dzikir Counter (Mobile App)
+### 📟 Dzikir Counter
 [![GitHub](https://img.shields.io/badge/GitHub-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/DzikirCounter)  
-**Clean dzikir counter app with sound, vibration, and history logs.**  
+- Clean dzikir counter app with sound, vibration.
+- Record and save files.  
 `Android` • `JavaScript` • `Mobile UI`
 
----
+</td>
+</tr>
+<tr>
+<td>
 
 ### ♠️ Blackjack (SFML)
 [![GitHub](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/SFML-Blackjack)  
-**C++ digital Blackjack game with card animations and scoring.**  
+- C++ digital Blackjack game.
+- Card mechanics and scoring.  
 `C++` • `SFML`
 
----
+</td>
+<td>
 
 ### 🌊 Perlin Noise Visualization
 [![Dev.to](https://img.shields.io/badge/Dev.to-339933?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rusycem/perlin-noise-visualization-with-threejs-and-audio-controls-55pb)  
-**Interactive Perlin noise visualizer with audio-reactive shaders.**  
+- Interactive Perlin noise visualizer.
+- COmes with udio-reactive shaders.  
 `Three.js` • `JavaScript` • `WebGL` • `Audio API`
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+## 🎮 Game Projects
+
+<table>
+<tr>
+<td>
 
 ### 🏰 Hellbound Heir
 [![Itch.io](https://img.shields.io/badge/Itch.io-FF4500?style=for-the-badge&logo=itch.io&logoColor=white)](https://rusycem.itch.io/hellbound-heir)  
-**Third-person medieval action game with melee/ranged combat and cinematic cutscenes.**  
-`Unreal Engine` • `AI` • `Behavior Trees` • `Mixamo`
+Third-person medieval action game with cinematic cutscenes.  
+`Unreal Engine` • `AI` • `Behavior Trees`
 
----
+</td>
+<td>
 
 ### 👧 BubGirls
 [![Itch.io](https://img.shields.io/badge/Itch.io-FF69B4?style=for-the-badge&logo=itch.io&logoColor=white)](https://rusycem.itch.io/bubgirls)  
-**3D Isometric mobile adventure game. Global Game Jam 2025 submission.**  
-`Unreal Engine 5` • `Blender` • `Mixamo` • `Blueprint`
+3D Isometric mobile adventure game.  
+`UE5` • `Blender` • `Mixamo` • `Blueprint`
 
----
+</td>
+</tr>
+<tr>
+<td>
 
 ### 🤖 Cyber Ninja
 [![Itch.io](https://img.shields.io/badge/Itch.io-1E90FF?style=for-the-badge&logo=itch.io&logoColor=white)](https://rusycem.itch.io/cyber-ninja)  
-**3D Isometric Action Platformer with AI enemy behavior.**  
-`Unreal Engine 5` • `Blender` • `Mixamo` • `AI Behavior Tree`
+3D Isometric Action Platformer with AI enemy behavior.  
+`UE5` • `Blender` • `Mixamo` • `AI Behavior Tree`
 
----
+</td>
+<td>
 
 ### 🐾 Rara & Riri
 [![Itch.io](https://img.shields.io/badge/Itch.io-FFD700?style=for-the-badge&logo=itch.io&logoColor=white)](https://rusycem.itch.io/pengembaraan-jawi-bersama-rara-riri)  
-**48-hour Unity adventure game to learn Jawi.**  
-`Unity` • `3D Modeling` • `Game Programming` • `UI Design` • `Educational Games`
+48-hour Unity adventure game to learn Jawi.  
+`Unity` • `3D Modeling` • `Game Programming` • `UI Design`
 
----
+</td>
+</tr>
+<tr>
+<td>
 
 ### 🐱 Sarah's Little Adventure
 [![Google Play](https://img.shields.io/badge/Google_Play-FF4500?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.rusycem.sarahadventure&hl=en)  
-**2D Platformer mobile game to help a lost kitten find its mom.**  
-`GDevelop` • `Mobile Game` • `Game Design` • `Monetization`
+2D Platformer mobile game to help a lost kitten find its mom.  
+`GDevelop` • `Mobile Game` • `Game Design`
 
----
+</td>
+<td>
 
 ### ⚔️ Legasi
 [![Unity](https://img.shields.io/badge/Unity-8B4513?style=for-the-badge&logo=unity&logoColor=white)](https://creations.uitm.edu.my/?event_listing=cdu2022_c027-legasi-a-gamification-of-malay-cultured-penchak-silat-and-empus-blacksmithing)  
-**3D action game gamifying Malay culture: Penchak Silat & Empu blacksmithing.**  
+3D action game gamifying Malay culture: Penchak Silat & Empu blacksmithing.  
 `Unity` • `Blender` • `Game Development`
 
----
+</td>
+</tr>
+<tr>
+<td>
 
 ### 📚 Fastbook
 [![Itch.io](https://img.shields.io/badge/Itch.io-228B22?style=for-the-badge&logo=itch.io&logoColor=white)](https://redcocoon.itch.io/fastbook)  
-**Socially conscious game identifying scam products on social media.**  
-`Godot` • `Game Development` • `Teamwork`
+Socially conscious game identifying scam products.  
+`Godot` • `Teamwork` • `Problem Solving`
 
-</div>
-
----
-
-## 🎬 Extra Media
-
-<div align="center">
+</td>
+<td>
 
 ### 🎥 Motion Graphics – Self Intro Snippet
 [![YouTube](https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=wTu0OwgcIGk)  
-**Cinematic motion graphics experiment combining UE5 & After Effects.**  
+Cinematic motion graphics experiment combining UE5 & After Effects.  
 `UE5` • `After Effects` • `3D Tracking` • `Kinetic Typography`
 
----
+</td>
+</tr>
+<tr>
+<td>
 
 ### 📖 Ejen Ali Wiki
 [![Fandom](https://img.shields.io/badge/Fandom-1E90FF?style=for-the-badge&logo=fandom&logoColor=white)](https://ejen-ali-agents-arena.fandom.com/wiki/Ejen_Ali:_Agents%27_Arena_Wiki)  
-**Community wiki for characters, stats, gears, and game terminology.**  
+Community wiki for characters, stats, gears, and game terminology.  
 `Wikitext` • `Wiki Development`
 
-</div>
+</td>
+<td></td>
+</tr>
+</table>
+
+
 
 ## 🎯 Projects
 
