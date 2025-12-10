@@ -1,7 +1,7 @@
 <!-- HEADER BADGE -->
 <div align="center">
 <a href="https://rusycem.github.io/profile" target="_blank" rel="noopener noreferrer">
-<img width="3936" height="1088" alt="intro" src="https://github.com/user-attachments/assets/52b2ac2b-ea4e-4576-bfd7-56589fcc8b89"/>
+<img width="3936" height="1088" alt="intro" src="https://github.com/user-attachments/assets/36332f46-5b23-4bf1-9b1d-3ff3f4a71a8a"/>
 </a>
 <br><br/>
 </div>
