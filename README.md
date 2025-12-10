@@ -64,7 +64,7 @@
 - Clean dzikir counter app with sound, vibration.
 - Record and save files.
   
-`Android` • `JavaScript` • `Mobile UI`
+`Android` • `C#` • `XAML` • `Mobile UI`
 
 </td>
 </tr>
