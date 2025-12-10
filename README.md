@@ -1,7 +1,7 @@
 <!-- HEADER BADGE -->
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUxZTQ4NnpsZW5zemVlMHA2NXduOHp6dnppN25wYjF2cHZvYTFlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UpSpEerkqIykFlIWPq/giphy.gif" width="600">
-<br/>
+<img width="3936" height="1088" alt="intro" src="https://github.com/user-attachments/assets/52b2ac2b-ea4e-4576-bfd7-56589fcc8b89" />
+<br><br/>
 </div>
 
 <p align="center">
