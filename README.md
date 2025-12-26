@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About Me
 ```bash
-- 🎓 Game Tech student @ FTMK, UTeM, Malaysia
+- 🎓 Game Tech graduate @ FTMK, UTeM, Malaysia
 - 🔥 Passionate about AI-driven systems, gameplay programming, and building immersive experiences.
 - 🚀 Focused on AI systems (NVIDIA ACE, autonomous factions, NPC logic)  
 - 🎮 Experience with Unreal Engine, Unity, Raylib, SFML  
