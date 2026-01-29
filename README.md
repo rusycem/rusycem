@@ -59,28 +59,6 @@
 </td>
 <td>
 
-### 📟 Dzikir Counter
-[![GitHub](https://img.shields.io/badge/GitHub-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/DzikirCounter)  
-- Clean dzikir counter app with sound, vibration.
-- Record and save files.
-  
-`Android` • `C#` • `XAML` • `Mobile UI`
-
-</td>
-</tr>
-<tr>
-<td>
-
-### ♠️ Blackjack (SFML)
-[![GitHub](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/SFML-Blackjack)  
-- C++ digital Blackjack game.
-- Card mechanics and scoring.
-  
-`C++` • `SFML`
-
-</td>
-<td>
-
 ### 🌊 Perlin Noise Visualization
 [![Dev.to](https://img.shields.io/badge/Dev.to-339933?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rusycem/perlin-noise-visualization-with-threejs-and-audio-controls-55pb)  
 - Interactive Perlin noise visualizer.
@@ -88,6 +66,51 @@
   
 `Three.js` • `JavaScript` • `WebGL` • `Audio API`
 
+</td>
+</tr>
+</table>
+
+
+## 🎮 R&D/Experimenting stuffs
+<table align="center">
+<tr>
+<td>
+  
+### 🔥 Unreal Discover
+[![GitHub](https://img.shields.io/badge/GitHub-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/Unreal-Discover) 
+- From project of the Meta Quest Mixed Reality APIs.
+- Passthrough, Spatial Anchors, Scene API, Colocation and Shared Anchors.
+  
+`Unreal Engine` • `C++` • `Meta Quest 3` • `Mixed Reality` • `Meta Oculus SDK`
+</td>
+<td>
+  
+### 🔥 Unreal Phanto
+[![GitHub](https://img.shields.io/badge/GitHub-E03FD8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/Unreal-Phanto5.6) 
+- Fork project of the Meta Quest Mixed Reality APIs.
+- This project demonstrates how to use Meshes for MR.
+  
+`Unreal Engine` • `C++` • `Meta Quest 3` • `Mixed Reality` • `Meta Oculus SDK`
+</td>
+</tr>
+<tr>
+<td>
+  
+### 🔥 Unreal Passthrough
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rusycem/Unreal-Passthrough) 
+- Fork project the Passthrough functionality by Meta Quest.
+- Alpha Holdout material adjustment.
+  
+`Unreal Engine` • `C++` • `Meta Quest 3` • `Mixed Reality` • `Meta Oculus SDK`
+</td>
+<td>
+  
+### 🔥 Unreal Hand Gameplay
+[![GitHub](https://img.shields.io/badge/GitHub-c1e2be?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rusycem/Unreal-MetaHand5.6) 
+- Fork project of the Meta Quest Mixed Reality APIs.
+- This project demonstrates how to use Meshes for MR.
+  
+`Unreal Engine` • `C++` • `Meta Quest 3` • `Mixed Reality` • `Meta Oculus SDK`
 </td>
 </tr>
 </table>
@@ -155,6 +178,29 @@ Third-person medieval action game with cinematic cutscenes.
 
 </td>
 </tr>
+<tr>
+<td>
+
+### 📟 Dzikir Counter
+[![GitHub](https://img.shields.io/badge/GitHub-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/DzikirCounter)  
+- Clean dzikir counter app with sound, vibration.
+- Record and save files.
+  
+`Android` • `C#` • `XAML` • `Mobile UI`
+
+</td>
+<td>
+
+### ♠️ Blackjack (SFML)
+[![GitHub](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/SFML-Blackjack)  
+- C++ digital Blackjack game.
+- Card mechanics and scoring.
+  
+`C++` • `SFML`
+
+</td>
+</tr>
+
 <tr>
 <td>
 
