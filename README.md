@@ -121,6 +121,15 @@
 <tr>
 <td>
 
+### 🎭 The Night Shift
+[![Itch.io](https://img.shields.io/badge/Itch.io-8B0000?style=for-the-badge&logo=itch.io&logoColor=white)](https://gameloaded4hour.itch.io/the-night-shift)  
+First-person survival horror, escaping the haunted factory.  
+
+`Programming` • `C#` • `Unity` 
+
+</td>
+<td>
+
 ### 🏰 Hellbound Heir
 [![Itch.io](https://img.shields.io/badge/Itch.io-FF4500?style=for-the-badge&logo=itch.io&logoColor=white)](https://rusycem.itch.io/hellbound-heir)  
 Third-person medieval action game with cinematic cutscenes.  
@@ -128,6 +137,9 @@ Third-person medieval action game with cinematic cutscenes.
 `Unreal Engine` • `AI` • `Behavior Trees`
 
 </td>
+</tr>
+
+<tr>
 <td>
 
 ### 👧 BubGirls
@@ -137,8 +149,6 @@ Third-person medieval action game with cinematic cutscenes.
 `UE5` • `Blender` • `Mixamo` • `Blueprint`
 
 </td>
-</tr>
-<tr>
 <td>
 
 ### 🤖 Cyber Ninja
@@ -148,6 +158,9 @@ Third-person medieval action game with cinematic cutscenes.
 `UE5` • `Blender` • `Mixamo` • `AI Behavior Tree`
 
 </td>
+</tr>
+
+<tr>
 <td>
 
 ### 🐾 Rara & Riri
@@ -157,8 +170,6 @@ Third-person medieval action game with cinematic cutscenes.
 `Unity` • `3D Modeling` • `Game Programming` • `UI Design`
 
 </td>
-</tr>
-<tr>
 <td>
 
 ### 🐱 Sarah's Little Adventure
@@ -168,6 +179,9 @@ Third-person medieval action game with cinematic cutscenes.
 `GDevelop` • `Mobile Game` • `Game Design`
 
 </td>
+</tr>
+
+<tr>
 <td>
 
 ### ⚔️ Legasi
@@ -177,31 +191,29 @@ Third-person medieval action game with cinematic cutscenes.
 `Unity` • `Blender` • `Game Development`
 
 </td>
-</tr>
-<tr>
 <td>
 
 ### 📟 Dzikir Counter
 [![GitHub](https://img.shields.io/badge/GitHub-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/DzikirCounter)  
-- Clean dzikir counter app with sound, vibration.
-- Record and save files.
-  
+- Clean dzikir counter app with sound, vibration.  
+- Record and save files.  
+
 `Android` • `C#` • `XAML` • `Mobile UI`
-
-</td>
-<td>
-
-### ♠️ Blackjack (SFML)
-[![GitHub](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/SFML-Blackjack)  
-- C++ digital Blackjack game.
-- Card mechanics and scoring.
-  
-`C++` • `SFML`
 
 </td>
 </tr>
 
 <tr>
+<td>
+
+### ♠️ Blackjack (SFML)
+[![GitHub](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/SFML-Blackjack)  
+- C++ digital Blackjack game.  
+- Card mechanics and scoring.  
+
+`C++` • `SFML`
+
+</td>
 <td>
 
 ### 📚 Fastbook
@@ -211,29 +223,30 @@ Socially conscious game identifying scam products.
 `Godot` • `Teamwork` • `Problem Solving`
 
 </td>
+</tr>
+
+<tr>
 <td>
 
 ### 🎥 Motion Graphics – Self Intro Snippet
 [![YouTube](https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=wTu0OwgcIGk)  
-Cinematic motion graphics experiment combining UE5 & After Effects. 
+Cinematic motion graphics experiment combining UE5 & After Effects.  
 
 `UE5` • `After Effects` • `3D Tracking` • `Kinetic Typography`
 
 </td>
-</tr>
-<tr>
 <td>
 
 ### 📖 Ejen Ali Wiki
 [![Fandom](https://img.shields.io/badge/Fandom-1E90FF?style=for-the-badge&logo=fandom&logoColor=white)](https://ejen-ali-agents-arena.fandom.com/wiki/Ejen_Ali:_Agents%27_Arena_Wiki)  
-Community wiki for characters, stats, gears, and game terminology. 
+Community wiki for characters, stats, gears, and game terminology.  
 
 `Wikitext` • `Wiki Development`
 
 </td>
-<td></td>
 </tr>
 </table>
+
 
 ---
 
