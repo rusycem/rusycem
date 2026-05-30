@@ -59,12 +59,12 @@
 </td>
 <td>
 
-### 🌊 Perlin Noise Visualization
-[![Dev.to](https://img.shields.io/badge/Dev.to-339933?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rusycem/perlin-noise-visualization-with-threejs-and-audio-controls-55pb)  
-- Interactive Perlin noise visualizer.
-- Comes with audio-reactive shaders.
-  
-`Three.js` • `JavaScript` • `WebGL` • `Audio API`
+### ♠️ Blackjack (SFML)
+[![GitHub](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/SFML-Blackjack)  
+- C++ digital Blackjack game.  
+- Card mechanics and scoring.  
+
+`C++` • `SFML`
 
 </td>
 </tr>
@@ -104,13 +104,14 @@
 `Unreal Engine` • `C++` • `Meta Quest 3` • `Mixed Reality` • `Meta Oculus SDK`
 </td>
 <td>
+
+### 🌊 Perlin Noise Visualization
+[![Dev.to](https://img.shields.io/badge/Dev.to-339933?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rusycem/perlin-noise-visualization-with-threejs-and-audio-controls-55pb)  
+- Interactive Perlin noise visualizer.
+- Comes with audio-reactive shaders.
   
-### 🔥 Unreal Hand Gameplay
-[![GitHub](https://img.shields.io/badge/GitHub-c1e2be?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rusycem/Unreal-MetaHand5.6) 
-- Fork project of the Meta Quest Mixed Reality APIs.
-- This project demonstrates how to use Meshes for MR.
-  
-`Unreal Engine` • `C++` • `Meta Quest 3` • `Mixed Reality` • `Meta Oculus SDK`
+`Three.js` • `JavaScript` • `WebGL` • `Audio API`
+
 </td>
 </tr>
 </table>
@@ -122,7 +123,7 @@
 <td>
 
 ### 🎭 The Night Shift
-[![Itch.io](https://img.shields.io/badge/Itch.io-8B0000?style=for-the-badge&logo=itch.io&logoColor=white)](https://gameloaded4hour.itch.io/the-night-shift)  
+[![GitHub](https://img.shields.io/badge/GitHub-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rusycem/MixedRice-TheNightShift)  
 First-person survival horror, escaping the haunted factory.  
 
 `Programming` • `C#` • `Unity` 
